@@ -4,3 +4,5 @@
 * An Evaluate Function was created to calculate various evaluation metrics after training each model.
 * The models were then sorted by their best r2 score.
 * Finally, a Linear Regression model was used for the project.
+
+# Project Overview: EDA & FE
